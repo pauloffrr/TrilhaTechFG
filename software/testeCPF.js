@@ -1,0 +1,13 @@
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
+var validarCPF_1 = require("./validarCPF");
+var cpf1 = "52998224725";
+var cpf2 = "12345678909";
+var cpf3 = "52998224724";
+var cpf4 = "11111111111";
+var cpf5 = "abc123";
+console.log("CPF 1:", (0, validarCPF_1.validarCPF)(cpf1));
+console.log("CPF 2:", (0, validarCPF_1.validarCPF)(cpf2));
+console.log("CPF 3:", (0, validarCPF_1.validarCPF)(cpf3));
+console.log("CPF 4:", (0, validarCPF_1.validarCPF)(cpf4));
+console.log("CPF 5:", (0, validarCPF_1.validarCPF)(cpf5));
