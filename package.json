@@ -1,0 +1,20 @@
+{
+  "name": "trilhatechfg",
+  "version": "1.0.0",
+  "main": "fase1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pauloffrr/TrilhaTechFG.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pauloffrr/TrilhaTechFG/issues"
+  },
+  "homepage": "https://github.com/pauloffrr/TrilhaTechFG#readme",
+  "description": ""
+}
